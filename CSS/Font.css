@@ -1,0 +1,40 @@
+@font-face{
+    font-family: Abel;
+    src: url(../Fonts/Abel/Abel-Regular.ttf);
+}
+@font-face{
+    font-family: Anton;
+    src: url(../Fonts/Anton/Anton-Regular.ttf);
+}
+@font-face{
+    font-family: Cinzel;
+    src: url(../Fonts/Cinzel/Cinzel-Regular.ttf);
+}
+@font-face{
+    font-family: Lexend;
+    src: url(../Fonts/Lexend_Deca/LexendDeca-Regular.ttf);
+}
+@font-face{
+    font-family: Livvic;
+    src: url(../Fonts/Livvic/Livvic-Medium.ttf);
+}
+@font-face{
+    font-family: Monda;
+    src: url(../Fonts/Monda/Monda-Regular.ttf);
+}
+@font-face{
+    font-family: Monda1;
+    src: url(../Fonts/Monda/Monda-Bold.ttf);
+}
+@font-face{
+    font-family: Exo2;
+    src: url(../Fonts/Exo2/static/Exo2-Regular.ttf);
+}
+@font-face{
+    font-family: Exo2-bold;
+    src: url(../Fonts/Exo2/static/Exo2-Bold.ttf);
+}
+@font-face{
+    font-family: Exo2-light;
+    src: url(../Fonts/Exo2/static/Exo2-ExtraLight.ttf);
+}
